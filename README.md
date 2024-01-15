@@ -26,4 +26,4 @@ If I knew what REST API they called, I could troubleshoot.
 
 ### What else worked - calling Home Connect REST API directly
 
-I was able to start my dishwasher by calling Home Connect REST API directly. If Google Home hadn't worked, I could have written some sort of application.
+[I was able to start my dishwasher by calling Home Connect REST API directly.](https://github.com/melissachang/bosch-dishwasher-delayed-start/blob/main/home-connect-rest-api.md) If Google Home hadn't worked, I could have written some sort of application.
