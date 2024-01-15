@@ -18,7 +18,7 @@ If that worked, then just add an Automation to run every day. Tap Automations bu
 
 ### What did not work - IFTTT
 
-Home Connect wrote an IFTTT applet ["Start the dishwasher every evening before going to bed"]([url](https://ifttt.com/applets/B9aH4hNZ-start-the-dishwasher-every-evening-before-going-to-bed)https://ifttt.com/applets/B9aH4hNZ-start-the-dishwasher-every-evening-before-going-to-bed). This did not work for me. The error message `There was a problem running the action` is unhelpful.
+Home Connect wrote an IFTTT applet ["Start the dishwasher every evening before going to bed"](https://ifttt.com/applets/B9aH4hNZ-start-the-dishwasher-every-evening-before-going-to-bed). This did not work for me. The error message `There was a problem running the action` is unhelpful.
 
 <img src="https://github.com/melissachang/bosch-dishwasher-delayed-start/assets/10929390/f2cbebeb-c0ec-4904-b206-6bd29de4ed5c" width="400">
 
