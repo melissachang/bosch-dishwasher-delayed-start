@@ -27,3 +27,10 @@ If I knew what REST API they called, I could troubleshoot.
 ### What else worked - calling Home Connect REST API directly
 
 [I was able to start my dishwasher by calling Home Connect REST API directly.](https://github.com/melissachang/bosch-dishwasher-delayed-start/blob/main/home-connect-rest-api.md) If Google Home hadn't worked, I could have written some sort of application.
+
+### Why delayed start?
+
+If you're reading this page, I don't need to tell you how maddening it is to have to open the app, *when I'm already standing at the dishwasher*. Here are my reasons for delayed start; there are many more.
+
+- Where I live, electricity is cheaper after midnight.
+- After dinner, I'll clean up and fill up the dishwasher. However, sometimes after that, there will be more dishes to add. Maybe I'll have a late-night snack. Maybe I'll find something I missed earlier. It's nice to be able to add to "tonight's load" at the last minute.
