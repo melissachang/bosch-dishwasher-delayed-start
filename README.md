@@ -2,13 +2,13 @@
 
 ### Overview
 
-Prior to 2023 Q4, one could kick off delayed start directly in Bosch dishwasher. [Starting in 2023 Q4](https://www.reddit.com/r/Appliances/comments/18bhs2u/bosch_800_dishwasher_rant/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), one has to kick off delayed start from the app. If you want delayed start every day, then every day you have to pull out your phone, open an app, and press some buttons.
+Prior to 2023 Q4, one could kick off delayed start directly in Bosch dishwasher. [Starting in 2023 Q4](https://www.reddit.com/r/Appliances/comments/18bhs2u/bosch_800_dishwasher_rant/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), one has to kick off delayed start from Home Connect app. If you want delayed start every day, then every day you have to open Home Connect app.
 
-I used Google Home automation to kick off delayed start every day, without having to open an app.
+I used Google Home automation to kick off delayed start every day. Now I don't have to open Home Connect app every day.
 
 ### Solution - Google Home automation
 
-First, see if you can one-time start dishwasher from Google Home app:
+Before configuring automation, see if you can start dishwasher from Google Home app:
 
 - In Google Home app, add dishwasher device.
 - I haven't verified this, but I think dishwasher remote start light must be on, and dishwasher must be closed.
